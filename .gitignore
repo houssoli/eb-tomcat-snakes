@@ -7,3 +7,9 @@
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+/build/
+/WebContent/
+/.settings/*
+.classpath
+.project
